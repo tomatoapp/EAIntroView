@@ -8,6 +8,13 @@
 ![BackgroundImage](https://raw.githubusercontent.com/ealeksandrov/EAIntroView/master/Screenshot01.png)
 ![BackgroundImage](https://raw.githubusercontent.com/ealeksandrov/EAIntroView/master/Screenshot02.png)
 
+=
+###Why fork
+Add a method:
+```
+- (void)setupPageControl:(UIControl *)pageControl;
+```
+=
 This is highly customizable drop-in solution for introduction views.
 Some features (remember, most features are optional and can be turned off):
 

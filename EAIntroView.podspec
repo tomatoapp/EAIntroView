@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/ealeksandrov'
 
   s.platform     = :ios, '6.0'
-  s.source       = { :git => 'https://github.com/ealeksandrov/EAIntroView.git', :tag => s.version.to_s }
+  s.source       = { :git => 'https://github.com/tomatoapp/EAIntroView.git', :tag => s.version.to_s }
   s.source_files = 'EAIntroView/EAIntro{Page,View}.{h,m}'
   s.requires_arc = true
   s.public_header_files = 'EAIntroView/EAIntro{Page,View}.h'
